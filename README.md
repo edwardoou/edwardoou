@@ -18,17 +18,17 @@ I am a Software Developer Student. I am passionate about technologies and love t
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/alexramosxd?si=74d44925e1604cbb)
-<br/>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="mi pagina web">
   <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" />
   <!-- wi*quL3fcV -->
   <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardoou&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" />
 </a>
 
+###  🤝🏻 &nbsp;Connect with Me
 
+<p align="center">
+<!--<a href="https://cameronthompson.io"><img src="https://img.shields.io/badge/-cameronthompson.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/alexramostito"><img src="https://img.shields.io/badge/-Alex%20Ramos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:alex.ramos.t@tecsup.edu.pe"><img src="https://img.shields.io/badge/-alex.ramos.t@tecsup.edu.pe-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>

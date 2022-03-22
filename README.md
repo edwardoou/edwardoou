@@ -25,4 +25,5 @@ I am a Software Developer Student. I am passionate about technologies and love t
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardoou&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" />
+<img align="left" height="137px" src="https://github-readme-stats.vercel.app/api?username=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" />
+<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardoou&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" />

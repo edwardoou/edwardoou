@@ -22,10 +22,10 @@ I am a Software Developer Student. I am passionate about technologies and love t
   <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" />
   <!-- wi*quL3fcV -->
   <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardoou&show_icons=true&locale=en&layout=compact&hide=html&hide_title=true&hide_border=true&langs_count=6&theme=radical" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&&line_height=21&theme=radical" alt="edwardoou" />
-</a>
-<hr>
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&&line_height=21&theme=radical" alt="edwardoou" /></a>
+</a>  
+
+
+<p align="center" border="30px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&&line_height=21&theme=radical" alt="edwardoou" /></p>
 
 ###  🤝🏻 &nbsp;Connect with Me
 

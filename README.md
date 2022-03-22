@@ -1,5 +1,5 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Alex Ramos 👨‍💻
-I am a Software Developer Student. I am passionate about technologies and love to learn new things.
+# <div align=center><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Alex Ramos 👨‍💻<div>
+<h3 align=center>I am a Software Developer Student. I am passionate about technologies and love to learn new things.</h3>
 
 ### ⚡&nbsp;Languages
 

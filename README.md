@@ -4,6 +4,7 @@
 ### ⚡&nbsp;Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -21,7 +22,7 @@
 <a href="mi pagina web">
   <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" />
   <!-- wi*quL3fcV -->
-  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardoou&show_icons=true&locale=en&layout=compact&hide=html&hide_title=true&hide_border=true&langs_count=6&theme=radical" />
+  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardoou&show_icons=true&locale=en&layout=compact&hide=html&hide_title=true&hide_border=true&langs_count=7&theme=radical" />
 </a>
 <br><br>
 <p align="center" border="30px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="edwardoou" /></p>

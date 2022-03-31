@@ -20,7 +20,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="mi pagina web">
-  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" />
+  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=21&theme=radical" />
   <!-- wi*quL3fcV -->
   <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardoou&show_icons=true&locale=en&layout=compact&hide=html&hide_title=true&hide_border=true&langs_count=7&theme=radical" />
 </a>

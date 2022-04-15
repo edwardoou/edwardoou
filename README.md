@@ -16,13 +16,14 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="mi pagina web">
   <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=21&theme=radical" />
   <!-- wi*quL3fcV -->
-  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardoou&show_icons=true&locale=en&layout=compact&hide=html&hide_title=true&hide_border=true&langs_count=7&theme=radical" />
+  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardoou&show_icons=true&locale=en&layout=compact&hide=html&hide_title=true&hide_border=true&langs_count=6&theme=radical" />
 </a>
 <br><br>
 <p align="center" border="30px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edwardoou&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="edwardoou" /></p>
